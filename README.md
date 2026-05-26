@@ -39,5 +39,5 @@ KNN 97.04%
 **Poderia atingir resultados ainda melhores???**  
 Sim, ajustando e testando novos hiperparâmetros de cada modelo poderíamos chegar em resultados ainda melhores. Porém, poderíamos chegar também em resultados
 piores, o que define a melhora ou a piora dos resultados seriam maiores testes a serem feitos em cada modelo ajustando suas configurações e modificando
-a prioridade de algumas colunas da base de dados a serem utilizados.
+a prioridade de algumas colunas da base de dados a serem utilizados, além de outras possibilidades.
 
