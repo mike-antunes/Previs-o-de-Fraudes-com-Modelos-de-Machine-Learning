@@ -2,7 +2,7 @@
 Neste projeto foi criado alguns modelos de Machine Learning para previsão de fraudes utilizando [este banco de dados](https://github.com/mike-antunes/Previs-o-de-Fraudes-com-Modelos-de-Machine-Learning/blob/main/BaseDeDadosDoProjeto) 
 
 
-## [Os atributos executados no projeto foram:](https://github.com/mike-antunes/Previs-o-de-Fraudes-com-Modelos-de-Machine-Learning/blob/main/ModeloPrevisaoFraude.ipynb)
+## Os atributos executados no projeto foram:
 - Conjunto de dados com mais de 80.000 registros   
 - Analise exploratória de variáveis categóricas e numéricas  
 - Analise e tratamento de valores missing (nulos)  
@@ -41,3 +41,4 @@ Sim, ajustando e testando novos hiperparâmetros de cada modelo poderíamos cheg
 piores, o que define a melhora ou a piora dos resultados seriam maiores testes a serem feitos em cada modelo ajustando suas configurações e modificando
 a prioridade de algumas colunas da base de dados a serem utilizados, além de outras possibilidades.
 
+## [CLIQUE AQUI](https://github.com/mike-antunes/Previs-o-de-Fraudes-com-Modelos-de-Machine-Learning/blob/main/ModeloPrevisaoFraude.ipynb) para ver o projeto completo
