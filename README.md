@@ -19,12 +19,11 @@ Neste projeto foi criado alguns modelos de Machine Learning para previsão de fr
 - Analise dos pesos das melhores variáveis  
 
 ## Resumo do projeto para compreenssão básica:
-O projeto foi desenvolvido para praticar demonstrando as principais funções, fundamentos e conceitos para um bom tratamento de dados indo da sua  
-etapa inicial de análise e avaliação até os conceitos um pouco mais complexos de tratamento como limpeza, normalização, preparo dos dados para serem utilizados  
-em modelos de Machine Learning, entre outros atributos descritos na lista acima. O objetivo foi atingir o melhor resultado utilizando 3 modelos de Machine Learning  
+O projeto foi desenvolvido para praticar demonstrando as principais funções, fundamentos e conceitos para um bom tratamento de dados indo da sua
+etapa inicial de análise e avaliação até os conceitos um pouco mais complexos de tratamento como limpeza, normalização, preparo dos dados para serem utilizados
+em modelos de Machine Learning, entre outros atributos descritos na lista acima. O objetivo foi atingir o melhor resultado utilizando 3 modelos de Machine Learning
 que foram (Random Forest, SVM, KNN).  
-Desde o início do projeto o foco foi criar um modelo que pudesse prever possíveis fraudes presentes no banco de dados utilizado que contém as informações  
-dos empréstimos de clientes.
+Desde o início do projeto o foco foi criar um modelo que pudesse prever possíveis fraudes presentes no banco de dados utilizado que contém as informações dos empréstimos de clientes.
 
 ## Resultados do projeto:
 **Numero de modelos treinados**
