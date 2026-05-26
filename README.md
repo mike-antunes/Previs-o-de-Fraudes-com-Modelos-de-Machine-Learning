@@ -15,7 +15,8 @@ Neste projeto foi criado alguns modelos de Machine Learning para previsão de fr
 - Balanceamento da variável ALVO (TARGET)  
 - OneHotEncoding  
 - Criação, treino e teste dos modelos preditivos com 3 algoritmos diferentes (Random Forest, Suport Vector Machine e KNN  
-- GridSearch para ajustes de hiperparametros automáticos e treino de mais de 1.000 modelos Analise dos pesos das melhores variáveis  
+- GridSearch para ajustes de hiperparametros automáticos e treino de mais de 1.000 modelos  
+- Analise dos pesos das melhores variáveis  
 
 ## Resumo do projeto para compreenssão básica:
 O projeto foi desenvolvido para praticar demonstrando as principais funções, fundamentos e conceitos para um bom tratamento de dados indo da sua  
